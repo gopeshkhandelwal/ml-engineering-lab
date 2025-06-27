@@ -1,0 +1,17 @@
+# Core scientific and ML libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Optional: for deep learning notebooks
+# tensorflow
+# torch
+
+# Optional: for Excel file support
+openpyxl
+
+# Optional: for image processing
+# pillow
