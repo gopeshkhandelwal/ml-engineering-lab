@@ -16,15 +16,6 @@ venv/
 # VS Code settings
 .vscode/
 
-# Data and output files
-*.csv
-*.xlsx
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-
 # System files
 .DS_Store
 Thumbs.db
